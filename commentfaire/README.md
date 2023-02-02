@@ -22,7 +22,7 @@
 
 ## Modification
 
-Une fois telechargé il sufit de faire clique droit > ouvrir avec > ouvrir avec [bloc note]( OU tu install Visual Studio Code etr tu l'ouvre avec "visual studio code"
+Une fois telechargé il sufit de faire clique droit > ouvrir avec > ouvrir avec [bloc note]( OU vous installez Visual Studio Code et vous l'ouvrez avec "visual studio code"
 
 ## Le Html et le Css
 
