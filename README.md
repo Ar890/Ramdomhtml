@@ -3,17 +3,23 @@
 ## Table des matiere
 1. [Telechargement](#telechargement)
 2. [Modifier](#modification)
+3. [Le html & le Css](#le-html-et-le-css)
+4. [FAQs](#faqs)
 
 ## Telechargement
 
  1. Cliquez sur "code"
  2. Et clique sur "download ZIP"
  
- __OU clique sur [_ce lien_](https://github.com/Ar890/Ramdomhtml/archive/refs/heads/main.zip) (c'est plus rapide mais il n'est pas present partout)__
+    __OU clique sur [_ce lien_](https://github.com/Ar890/Ramdomhtml/archive/refs/heads/main.zip) (c'est plus rapide mais il n'est pas present partout donc c'est bien de savoir comment faire sans !)__
 
 ## Modification
 
 Une fois telechargé il sufit de faire clique droit > ouvrir avec > ouvrir avec [bloc note]( OU tu install Visual Studio Code etr tu l'ouvre avec "visual studio code"
+
+## Le Html et le Css
+
+Voire ce site : [https://ar890.github.io/Le-html/](https://ar890.github.io/Le-html/)
 
 ## FAQs
 ***
