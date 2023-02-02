@@ -1,5 +1,9 @@
-# Comment telecharger ???
+# Le fichier de base pour les debutants en html
 
+## Plan 
+1. [Telechargement](## Comment telecharger ???)
+
+## Comment telecharger ???
 - clique sur "code"
 - et clique sur "download ZIP"
 
