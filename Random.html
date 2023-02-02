@@ -2,55 +2,56 @@
 <html>
 
 <head>
-    <meta charset="UTF-8">
-    <title>Titre de la page (dans l'onglet)</title>
-    <link rel="stylesheet" href="style.css" type="text/css">
-</head>
+    <!-- la "tete" de la page sert a mettre des informations sur la page comme le titre, le style ou le lien vers un le fichier css, le lien vers un fichier javascript, l'encodage de la page (meta), etc... -->
+    <meta charset="UTF-8"> <!-- Encodage de la page pour les accents et autres caractères spéciaux -->
+    <title>Titre de la page (dans l'onglet)</title> <!-- Titre de la page (dans le haut de l'onglet) -->
+    <link rel="stylesheet" href="style.css" type="text/css"> <!-- Lien vers le fichier css -->
+</head> <!-- Fin de la tete de la page -->
 
-<body>
-    <h1>Titre de la page</h1>
-    <p>Paragraphe de la page</p>
-    <div class="container">
-        <h2>Deuxieme titre</h2>
-        <p>Paragraphe de la page</p>
-        <img src="https://exemple.com/exemple" alt="image">
+<body> <!-- Corps de la page !!!! NE PAS ECRIRE DE CODE HTML EN DEHORS DE LA BALISE BODY !!!! -->
+    <h1>Titre de la page</h1> <!-- Titre de la page en dehors de la div -->
+    <p>Paragraphe de la page</p> <!-- Un paragraphe de la page en dehors de la div -->
+    <div class="container"> <!-- Debut de la div de la page qui a comme class 'container' -->
+        <h2>Deuxieme titre</h2> <!-- Un titre de niveau 2 (voir site html ;-) )-->
+        <p>Paragraphe de la page</p> <!-- Un paragraphe de la page dans la div -->
+        <img src="https://exemple.com/exemple" alt="image"> <!-- Image ayant pour source 'exemple.com/exemple' -->
         <br>
-        <a href="https://exemple.com">Lien vers un site "exemple"</a>
-        <table>
-            <tr>
-                <th>Titre 1</th>
-                <th>Titre 2</th>
-                <th>Titre 3</th>
-            </tr>
-            <tr>
-                <td>Donnée 1</td>
-                <td>Donnée 2</td>
-                <td>Donnée 3</td>
-            </tr>
-            <tr>
-                <td>Donnée 1</td>
-                <td>Donnée 2</td>
-                <td>Donnée 3</td>
-            </tr>
-            <tr>
-                <td>Donnée 1</td>
-                <td>Donnée 2</td>
-                <td>Donnée 3</td>
-            </tr>
-        </table>
-<!-- liste ordonnée (par chiffres)-->
-        <ol>
-            <li>Element 1</li><!-- Elements de la liste -->
-            <li>Element 2</li>
-            <li>Element 3</li>
-        </ol>
-<!-- liste non ordonnée (par points)-->
+        <a href="https://exemple.com">Lien vers un site "exemple"</a> <!-- Balise de lien vers le site 'exemple.com' -->
+        <table> <!-- Debut de la table -->
+            <tr> <!-- Debut de la ligne des "titre" -->
+                <th>Titre 1</th> <!-- Titre de la colonne 1 -->
+                <th>Titre 2</th> <!-- Titre de la colonne 2 -->
+                <th>Titre 3</th> <!-- Titre de la colonne 3 -->
+            </tr> <!-- Fin de la ligne des "titre" -->
+            <tr> <!-- Debut de la ligne 1 -->
+                <td>Donnée 1</td> <!-- Données de la ligne 1 colone 1 -->
+                <td>Donnée 2</td> <!-- Données de la ligne 1 colone 2 -->
+                <td>Donnée 3</td> <!-- Données de la ligne 1 colone 3 -->
+            </tr> <!-- Fin de la ligne 1 -->
+            <tr> <!-- Debut de la ligne 2 -->
+                <td>Donnée 1</td> <!-- Données de la ligne 2 colone 1 -->
+                <td>Donnée 2</td> <!-- Données de la ligne 2 colone 2 -->
+                <td>Donnée 3</td> <!-- Données de la ligne 2 colone 3 -->
+            </tr> <!-- Fin de la ligne 2 -->
+            <tr> <!-- Debut de la ligne 3 -->
+                <td>Donnée 1</td> <!-- Données de la ligne 3 colone 1 -->
+                <td>Donnée 2</td> <!-- Données de la ligne 3 colone 2 -->
+                <td>Donnée 3</td> <!-- Données de la ligne 3 colone 3 -->
+            </tr> <!-- Fin de la ligne 3 -->
+        </table> <!-- Fin de la table -->
+        <!-- liste ordonnée (par chiffres)-->
+        <ol> <!-- Debut de la liste ordonnée -->
+            <li>Element 1</li> <!-- Elements de la liste -->
+            <li>Element 2</li> <!-- Elements de la liste -->
+            <li>Element 3</li> <!-- Elements de la liste -->
+        </ol> <!-- Fin de la liste ordonnée -->
+        <!-- liste non ordonnée (par points)-->
         <ul>
-            <li>Element 1</li>
-            <li>Element 2</li>
-            <li>Element 3</li>
+            <li>Element 1</li> <!-- Element de la liste -->
+            <li>Element 2</li> <!-- Element de la liste -->
+            <li>Element 3</li> <!-- Element de la liste -->
         </ul>
-    </div>
+    </div> <!-- Fin de la div container -->
 </body>
 
 </html>

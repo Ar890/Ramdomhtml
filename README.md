@@ -27,8 +27,9 @@ Voire ce site : [https://ar890.github.io/Le-html/](https://ar890.github.io/Le-ht
 
  1. __Visual Studio Code ??? Quesaquo__ 
 
- - _[Visual Studio Code](https://code.visualstudio.com/) est un editeur gratuit crée en open source très complet avec beaucoup d'extetions interesentes_
+   * _[Visual Studio Code](https://code.visualstudio.com/) est un editeur gratuit crée en open source très complet avec beaucoup d'extetions interesentes_
+      * l'aventage est qu'il est plus facile de modifier le code et de le lire car il colorie le code en fonction des elements utilisés
 
  2. __Et bloc note ?__ 
-   - Bloc note est un programe par defaut instalé, c'est l'editeur de text le plus basique possible 
-![image](/blocnote.webp)
+   - Bloc note est un programe installé- par defaut, c'est l'editeur de text le plus basique possible mais il est tres pratique pour les debutants car il est simple d'utilisation et il est deja installé sur tous les ordinateurs malgré qu'il soit un peu limité dans ses fonctionnalités (il ne colorie pas le code par exemple).
+   ![image](/blocnote.webp)

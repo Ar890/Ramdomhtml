@@ -1,112 +1,110 @@
 body {
-    background-color: #000000;
-    color: #ffffff;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 14px;
-    align-items: center;
-    justify-content: center;
-    align-content: center;
-    align-self: center;
-    text-align: center;
+    background-color: #000000; /* Definition de la couleur de fond de toute la page */
+    color: #ffffff; /* Definition de la couleur du texte par defaut pour la page */
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; /* Definition de la police de caractere par defaut pour la page */
+    font-size: 14px; /* Definition de la taille de la police de caractere par defaut pour la page */
+    align-items: center; /* Alignement des elements sur l'axe des X (au centre) */
+    justify-content: center; /* Alignement des elements sur l'axe des Y (au centre) */
+    align-content: center; /* Alignement des elements sur l'axe des X et Y (au centre) */
+    text-align: center; /* Alignement du texte (au centre) */
 }
 
-h1 {
-    font-size: 36px;
+h1 { /* Les balises h1, h2, h3, h4, h5, h6 sont des balises de titre. Plus le chiffre est grand, plus le titre est petit. */
+    font-size: 36px; /* Definition de la taille de la police de caractere (h1) */
     background-color: blue; /* Definition de la couleur de fond (h1) */
 }
 
-h2 {
-    font-size: 30px;
+h2 { /* Les balises h1, h2, h3, h4, h5, h6 sont des balises de titre. Plus le chiffre est grand, plus le titre est petit. */
+    font-size: 30px; /* Definition de la taille de la police de caractere (h2) */
 }
 
-h3 {
-    font-size: 24px;
+h3 { /* Les balises h1, h2, h3, h4, h5, h6 sont des balises de titre. Plus le chiffre est grand, plus le titre est petit. */
+    font-size: 24px; /* Definition de la taille de la police de caractere (h3) */
 }
 
 
-table {
-    background-color: rgb(0, 0, 0);
-    color: #ffffff;
-    font-size: 14px;
-    width: 100%;
-    align-items: center;
-    justify-content: center;
-    align-content: center;
-    align-self: center;
-    text-align: center;
+table { /* Definition des caracteristiques de la table */
+    background-color: rgb(0, 0, 0); /* Definition de la couleur de fond de la table */
+    color: #ffffff; /* Definition de la couleur du texte de la table */
+    font-size: 14px; /* Definition de la taille de la police de caractere de la table */
+    width: 100%; /* Definition de la largeur de la table */
+    align-items: center; /* Alignement des elements sur l'axe des X (au centre) */
+    justify-content: center; /* Alignement des elements sur l'axe des Y (au centre) */
+    align-content: center; /* Alignement des elements sur l'axe des X et Y (au centre) */
+    align-self: center; /* Alignement des elements sur l'axe des X et Y (au centre) */
+    text-align: center; /* Alignement du texte (au centre) */
 }
 
-tr {
-    background-color: #000000;
-    border: 1px solid #ffffff;
-    color: #ffffff;
-    font-size: 14px;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
+tr { /* Definition des caracteristiques des lignes de la table */
+    background-color: #000000; /* Definition de la couleur de fond des lignes de la table */
+    border: 1px solid #ffffff; /* Definition de l'epaisseur des bordures et de la couleur des lignes de la table */
+    color: #ffffff; /* Definition de la couleur du texte des lignes de la table */
+    font-size: 14px; /* Definition de la taille de la police de caractere des lignes de la table */
+    align-items: center; /* Alignement des elements sur l'axe des X (au centre) */
+    justify-content: center; /* Alignement des elements sur l'axe des Y (au centre) */
+    text-align: center; /* Alignement du texte (au centre) */
 }
 
-th {
-    background-color: #000000;
-    border: 3px solid #ffffff;
-    color: #ffffff;
-    font-size: 14px;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
+th { /* Definition des caracteristiques des colonnes de la table */
+    background-color: #000000; /* Definition de la couleur de fond des colonnes de la table */
+    border: 3px solid #ffffff; /* Definition de l'epaisseur des bordures et de la couleur des colonnes de la table */
+    color: #ffffff; /* Definition de la couleur du texte des colonnes de la table */
+    font-size: 14px; /* Definition de la taille de la police de caractere des colonnes de la table */
+    align-items: center; /* Alignement des elements sur l'axe des X (au centre) */
+    justify-content: center; /* Alignement des elements sur l'axe des Y (au centre) */
+    text-align: center; /* Alignement du texte (au centre) */
 }
 
-td {
-    background-color: #000000;
-    border: 1px solid #ffffff;
-    color: #ffffff;
-    font-size: 14px;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
+td { /* Definition des caracteristiques des cellules de la table */
+    background-color: #000000; /* Definition de la couleur de fond des cellules de la table */
+    border: 1px solid #ffffff; /* Definition de l'epaisseur des bordures et de la couleur des cellules de la table */
+    color: #ffffff; /* Definition de la couleur du texte des cellules de la table */
+    font-size: 14px; /* Definition de la taille de la police de caractere des cellules de la table */
+    align-items: center; /* Alignement des elements sur l'axe des X (au centre) */
+    justify-content: center; /* Alignement des elements sur l'axe des Y (au centre) */
+    text-align: center; /* Alignement du texte (au centre) */
 }
 
-li {
-    color: #ffffff;
-    font-size: 14px;
+li { /* Definition des caracteristiques des listes */
+    color: #ffffff; /* Definition de la couleur du texte des listes */
+    font-size: 14px; /* Definition de la taille de la police de caractere des listes */
 }
 
-a {
-    color: #ffffff;
-    font-size: 14px;
+a { /* Definition des caracteristiques des liens */
+    color: #ffffff; /* Definition de la couleur du texte des liens */
+    font-size: 14px; /* Definition de la taille de la police de caractere des liens */
 }
 
-img {
-    border: 1px solid #ffffff;
-    align-items: center;
+img { /* Definition des caracteristiques des images */
+    border: 1px solid #ffffff; /* Definition de l'epaisseur des bordures et de la couleur des images */
+    align-items: center; /* Alignement des elements sur l'axe des X (au centre) */
 }
 
-div .container {
-    background-color: #000000;
-    border: 1px solid #ffffff;
-    align-items: center;
-    justify-content: center;
-    align-content: center;
-    align-self: center;
-    text-align: center;
-    color: #ffffff;
-    font-size: 14px;
+div .container { /* Definition des caracteristiques de la div */
+    background-color: #000000; /* Definition de la couleur de fond de la div */
+    border: 1px solid #ffffff; /* Definition de l'epaisseur des bordures et de la couleur de la div */
+    align-items: center; /* Alignement des elements sur l'axe des X (au centre) */
+    justify-content: center; /* Alignement des elements sur l'axe des Y (au centre) */
+    align-content: center; /* Alignement des elements sur l'axe des X et Y (au centre) */
+    align-self: center; /* Alignement des elements sur l'axe des X et Y (au centre) */
+    text-align: center; /* Alignement du texte (au centre) */
+    color: #ffffff; /* Definition de la couleur du texte de la div */
+    font-size: 14px; /* Definition de la taille de la police de caractere de la div */
     padding: 10px; /* Sert a mettre un espace entre le texte et le bord de la div */
-    width: 70%;
+    width: 70%; /* Definition de la largeur de la div */
 }
 
-ol {
-    color: #ffffff;
-    font-size: 14px;
+ol { /* Definition des caracteristiques des listes ordonnees */
+    color: #ffffff; /* Definition de la couleur du texte des listes ordonnees */
+    font-size: 14px; /* Definition de la taille de la police de caractere des listes ordonnees */
+} 
+
+p { /* Definition des caracteristiques des paragraphes */
+    color: #ffffff; /* Definition de la couleur du texte des paragraphes */
+    font-size: 14px; /* Definition de la taille de la police de caractere des paragraphes */
 }
 
-p {
-    color: #ffffff;
-    font-size: 14px;
+ul { /* Definition des caracteristiques des listes non ordonnees */
+    color: #ffffff; /* Definition de la couleur du texte des listes non ordonnees */
+    font-size: 14px; /* Definition de la taille de la police de caractere des listes non ordonnees */
 }
-
-ul {
-    color: #ffffff;
-    font-size: 14px;
-}
-
