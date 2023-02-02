@@ -24,4 +24,3 @@ Une fois telechargé il sufit de faire clique droit > ouvrir avec > ouvrir avec 
 2.__Et bloc note ?__ 
  - Bloc note est un programe par defaut instalé, c'est l'editeur de text le plus basique possible 
 ![image](/blocnote.webp)
-
