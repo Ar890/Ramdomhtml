@@ -24,6 +24,8 @@
 
 Une fois telechargé il sufit de faire clique droit > ouvrir avec > ouvrir avec [bloc note]( OU vous installez Visual Studio Code et vous l'ouvrez avec "visual studio code"
 
+## IMPORTANT  ! N'OUBLIEZ PAS DE METTRE LE FICHIER CSS DANS LE MEME DOSIER QUE LE FICHIER HTML
+
 ## Le Html et le Css
 
 Voire ce site : [https://ar890.github.io/Le-html/](https://ar890.github.io/Le-html/)
